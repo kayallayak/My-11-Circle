@@ -1,0 +1,65 @@
+.head-style {
+    text-align: center;
+    color:Magenta;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.margin{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+#grad1 {
+    background-image: linear-gradient(to right, Magenta,orange);
+    border-color: blue;
+}
+
+#grad {
+    background-image: linear-gradient(to right, rgb(24, 7, 63),rgb(9, 104, 160));
+}
+
+.table-style {
+    width: 700px;
+    height: 50px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table-head{
+    background-color: #FFC0CB;
+    color: white;
+}
+
+.table-data {
+  background-color: white;
+}
+
+.align{
+    text-align: right;
+}
+
+#text {
+    text-decoration: none;
+    color: black;
+}
+
+.cellwidth{
+    width:30%;
+}
+
+.shadow {
+    text-shadow: 1px 2px grey;
+    color: grey;
+}
+  
+.center {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.text-align {
+    text-align: right;
+}
